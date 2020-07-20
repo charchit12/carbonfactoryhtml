@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e61d9b-44af-49ab-b24f-26d9b08754fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/intro-carousel/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/intro-carousel/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/intro-carousel/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +23,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/intro-carousel" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cgupt\Desktop\carbonfactoryhtml\img\intro-carousel" />
+      <recent name="C:\Users\cgupt\Desktop\carbonfactoryhtml\img" />
+      <recent name="C:\Users\cgupt\Desktop\carbonfactoryhtml\img\portfolio" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,7 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595081304182</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes added">
+      <created>1595083442506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595083442506</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changses done">
+      <created>1595084497527</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595084497527</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added css for publisher and advertiser">
+      <created>1595262247286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262247362</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -104,6 +137,9 @@
     <MESSAGE value="removed unused images" />
     <MESSAGE value="basic changes in data" />
     <MESSAGE value="added linkedin ref link" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linkedin ref link" />
+    <MESSAGE value="changes added" />
+    <MESSAGE value="changses done" />
+    <MESSAGE value="added css for publisher and advertiser" />
+    <option name="LAST_COMMIT_MESSAGE" value="added css for publisher and advertiser" />
   </component>
 </project>
